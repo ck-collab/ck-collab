@@ -1,10 +1,10 @@
 # Hi, y'all — I'm Caren
 
-Ten years ago I left Google to do something kind of unusual: build a vinyl record pressing plant in the boom of the digital music age. Today I own multiple music businesses in the world of physical media — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
+Ten years ago I left a great career at Google to do something contrarian: build a pressing plant to answer the demand for vinyl records in the digital music age. Today I own multiple music businesses in the world of physical media — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
 
 ## First, Silicon Valley
 
-Before I moved to Austin to make vinyl records was in music tech: business development at **Songkick** (pre-Sequoia), then **Google**, where I was one of three PMMs on with the Android engineering team for the launch of **Google Music** and its DIY distribution platform, the **Google Music Artist Hub**. I was later promoted to **Head of Music App Partnerships for Google Play** helping our Android developers better thrive on the platform. I've shipped consumer products at scale while being in lean teams — and that's the lens I still build with.
+Before I moved to Austin to make vinyl records I was deep in music tech: API business development at **Songkick** (pre-Sequoia), then **Google**, where I was one of three PMMs on with the Android engineering team for the launch of **Google Music** and its DIY distribution platform, the **Google Music Artist Hub**. I was later promoted to **Head of Music App Partnerships for Google Play** helping our Android developers better thrive on the platform. I've shipped consumer products at scale while being in lean teams — and that's the lens I still build with.
 
 ## Then, the physical world
 
