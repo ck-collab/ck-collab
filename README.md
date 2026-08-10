@@ -4,7 +4,7 @@ Ten years ago I left Google to do something kind of unusual: build a vinyl recor
 
 ## First, Silicon Valley
 
-Before I moved to Austin to make vinyl records was in music tech: business development at **Songkick** (pre-Sequoia), then **Google**, where I was the PMM embedded with the Android engineering team for the launch of **Google Music**, and later **Head of Music App Partnerships for Google Play**. I've shipped consumer products at planetary scale — that's the lens I still build with.
+Before I moved to Austin to make vinyl records was in music tech: business development at **Songkick** (pre-Sequoia), then **Google**, where I was one of three PMMs on with the Android engineering team for the launch of **Google Music** and its DIY distribution platform, the **Google Music Artist Hub**. I was later promoted to **Head of Music App Partnerships for Google Play** helping our Android developers better thrive on the platform. I've shipped consumer products at scale while being in lean teams — and that's the lens I still build with.
 
 ## Then, the physical world
 
@@ -18,17 +18,17 @@ Across hardware, software, inventory, payroll, a retail floor, a manufacturing l
 
 Running two operations surfaces a hard truth fast: the data lives in a dozen disconnected systems, and none of them talk to each other. So I built the connective tissue myself.
 
-Most of what I ship stitches together the tools the business already lives in:
+Most of what I ship stitches together the tools the businesses already work in:
 
-`Zapier` (heavily) · `Airtable` · `Xero` · `QuickBooks` · `Stripe` · `Shopify` · `Google (Sheets · Analytics · OAuth)` · `Meta` · `Cloudflare` · `Vercel` · `Next.js` · `React Native / Expo` · `MCP`
+`Zapier` (heavily) · `Airtable (heavily)` · `Xero` · `QuickBooks` · `Stripe` · `Shopify` · `Google (Sheets · Analytics · OAuth)` · `Meta` · `Cloudflare` · `Vercel` · `Next.js` · `React Native / Expo` · `Slack' · `SEMrush'
 
-Zapier featured this work in their **national ad campaign** and put me on their **2022 keynote stage** to talk about it. I'm not a career engineer — I'm an operator who builds because the problems are mine to solve and no off-the-shelf tool fits. Automations that used to be someone's afternoon are now invisible. Numbers that lived in five spreadsheets now live on one screen.
+Zapier featured my work in their **national ad campaign** and put me on their **2022 keynote stage** to talk about it. I'm not a career engineer — I'm an operator who builds because the problems are mine to solve and no off-the-shelf tool fits. Automations that used to be someone's afternoon are now invisible. This gives me back time to work with the thousands of record-label partners and musicians who rely on my companies to get their records to fans.
 
 ## What I'm building
 
 Most repos here are private — they run live businesses. Here's the shape of the work:
 
-**📊 Executive KPI dashboards** — Password-protected, single-screen views pulling live from accounting, e-commerce, and social platforms (Xero, QuickBooks, Stripe, Shopify, YouTube, Instagram, Facebook, Google) so I can see the health of both businesses at a glance, month-over-month.
+**📊 Executive KPI dashboards** — Password-protected, single-screen views pulling live from accounting, e-commerce, and social platforms (Xero, QuickBooks, Stripe, Shopify, Bill.com, YouTube, Instagram, Facebook, Google) so I can see the health of all my businesses at a glance, month-over-month.
 
 **🔗 Back-office automation** — Zapier-driven workflows wiring Airtable to invoicing, accounting, and PDF generation. Order status, royalty math, and billing move themselves instead of being re-keyed by hand.
 
@@ -42,4 +42,4 @@ Most repos here are private — they run live businesses. Here's the shape of th
 
 *Physical-world operator who ships software — and puts AI to work where the stakes are real. Most of my code is private because it's in production; happy to walk through any of it live.*
 
-📍 Austin, TX · [carenkelleher.com](https://carenkelleher.com) · Featured in NYT, Forbes, Billboard, Variety, and the TODAY Show
+📍 Austin, TX · [carenkelleher.com](https://carenkelleher.com) · Featured in The New York Times, Forbes, Billboard, Variety, and the TODAY Show
