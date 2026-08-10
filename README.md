@@ -1,4 +1,4 @@
-# Hi, y'all — I'm Caren 👋
+# Hi, y'all — I'm Caren
 
 Ten years ago I left Google to do something kind of unusual: build a vinyl record pressing plant in the boom of the digital music age. Today I own multiple music businesses in the world of physical media — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
 
@@ -28,15 +28,15 @@ Zapier featured my work in their **national ad campaign** and put me on their **
 
 Most repos here are private — they run live businesses. Here's the shape of the work:
 
-**📊 Executive KPI dashboards** — Password-protected, single-screen views pulling live from accounting, e-commerce, and social platforms (Xero, QuickBooks, Stripe, Shopify, Bill.com, YouTube, Instagram, Facebook, Google) so I can see the health of all my businesses at a glance, month-over-month.
+**Executive KPI dashboards** — Password-protected, single-screen views pulling live from accounting, e-commerce, and social platforms (Xero, QuickBooks, Stripe, Shopify, Bill.com, YouTube, Instagram, Facebook, Google) so I can see the health of all my businesses at a glance, month-over-month.
 
-**🔗 Back-office automation** — Zapier-driven workflows wiring Airtable to invoicing, accounting, and PDF generation. Order status, royalty math, and billing move themselves instead of being re-keyed by hand.
+**Back-office automation** — Zapier-driven workflows wiring Airtable to invoicing, accounting, and PDF generation. Order status, royalty math, and billing move themselves instead of being re-keyed by hand.
 
-**🏭 Client & production portals** — Multi-tenant web portals where customers track pressing and awards projects — status, history, proofing, invoices, quote requests — backed by an internal production board.
+**Client & production portals** — Multi-tenant web portals where customers track pressing and awards projects — status, history, proofing, invoices, quote requests — backed by an internal production board.
 
-**📱 Retail mobile app** — A React Native / Expo app for the record store: events, loyalty program, push notifications, and the storefront.
+**Retail mobile app** — A React Native / Expo app for the record store: events, loyalty program, push notifications, and the storefront.
 
-**🤖 AI in production** — A document-grounded assistant over our business records, an internal staff wiki, and analytics connected via **MCP**. Not experiments — an AI layer running on top of live operational data, used by staff every day.
+**AI in production** — A document-grounded assistant over our business records, an internal staff wiki, and analytics connected via **MCP**. Not experiments — an AI layer running on top of live operational data, used by staff every day.
 
 ---
 
