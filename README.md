@@ -1,6 +1,6 @@
 # Hi, y'all — I'm Caren 👋
 
-Ten years ago I left Google to do something kind of bold: build an analog business. Today I own multiple music businesses in the world of physical media and vinyl records — and I design and build the software and systems that run them.
+Ten years ago I left Google to do something kind of bold: build an analog business. It was such a wild idea that **Harvard Business School** now teaches a case study about this decision. Today I own multiple music businesses in the world of physical media and vinyl records — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
 
 ## First, Silicon Valley
 
