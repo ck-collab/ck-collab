@@ -8,7 +8,7 @@ Before I moved to Austin to make vinyl records I was deep in music tech: API bus
 
 ## Then, the physical world
 
-I built a **vinyl record pressing plant** — [Gold Rush Vinyl](https://goldrushvinyl.com) — from the ground up, including backend systems to the factory floor itself, including steam systems, cooling lines, and hydraulic presses. Fast Company named it one of the **most innovative companies in music**, and **Harvard Business School wrote a case study** on it that's now taught in the required MBA curriculum.
+In 2018 I built a **vinyl record pressing plant** — [Gold Rush Vinyl](https://goldrushvinyl.com) — from the ground up. Working with MEP engineers, welders, electricians and OEMs we created backend systems for the factory floor itself, including a steam system, cooling lines and hydraulic presses. Fast Company named it one of the **most innovative companies in music**, and **Harvard Business School wrote a case study** on it that's now taught in the required MBA curriculum.
 
 Then a business partner and I bought **Waterloo Records**, a 44-year-old Austin institution and one of the biggest indie record stores in North America. This acquisition came with moving the store to a new home, allowing me to call upon what I learned from the engineering of Gold Rush Vinyl to keep contractors, engineers and architects on track for launch. The biggest lift: migrating it off the MS-DOS inventory and POS system it had run on for 30+ years and onto Shopify plus a custom app suite I spec'd and shipped with a team of SWEs.
 
