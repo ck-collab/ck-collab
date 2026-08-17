@@ -40,6 +40,6 @@ Most repos here are private — they run live businesses. Here's the shape of th
 
 ---
 
-*Physical-world operator who ships software — and puts AI to work where the stakes are real. Most of my code is private because it's in production; happy to walk through any of it live.*
+*Most of my code is private because it's in production and contains sensitive client info; happy to walk through any demos of it live.*
 
-📍 Austin, TX · [carenkelleher.com](https://carenkelleher.com) · Featured in The New York Times, Forbes, Billboard, Variety, and the TODAY Show
+📍 Austin, TX and San Francisco, CA
