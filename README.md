@@ -20,7 +20,7 @@ Running two operations surfaces a hard truth fast: the data lives in a dozen dis
 
 Most of what I ship stitches together the tools the businesses already work in:
 
-`Zapier` (heavily) · `Airtable (heavily)` · `Xero` · `QuickBooks` · `Stripe` · `Shopify` · `Google (Sheets · Analytics · OAuth)` · `Meta` · `Cloudflare` · `Vercel` · `Next.js` · `React Native / Expo` · `Slack' · `SEMrush'
+`Zapier` (heavily) · `Airtable` (heavily) · `Xero` · `QuickBooks` · `Stripe` · `Shopify` · `Google (Sheets · Analytics · OAuth)` · `Meta` · `Cloudflare` · `Vercel` · `Next.js` · `React Native / Expo` · `Slack' 
 
 Zapier featured my work in their **national ad campaign** and put me on their **2022 keynote stage** to talk about it. I'm not a career engineer — I'm an operator who builds because the problems are mine to solve and no off-the-shelf tool fits. Automations that used to be someone's afternoon are now invisible. This gives me back time to work with the thousands of record-label partners and musicians who rely on my companies to get their records to fans.
 
