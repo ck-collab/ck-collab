@@ -1,6 +1,6 @@
 # Hi, y'all — I'm Caren
 
-Ten years ago I left a great career at Google to do something contrarian: build a pressing plant to answer the demand for vinyl records in the digital music age. Today I own multiple music businesses in the world of physical media — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
+Ten years ago I left a great career at Google to do something wildly different: build a vinyl record pressing plant. Today I own multiple music businesses in the world of physical media — and I design and build the software systems that run them so I can do what I do best: build partnerships with music creators.
 
 ## First, Silicon Valley
 
